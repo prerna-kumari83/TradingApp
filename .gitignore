@@ -1,0 +1,5 @@
+# .gitignore in your root folder
+node_modules/
+.env
+backend/node_modules/
+frontend/build/
