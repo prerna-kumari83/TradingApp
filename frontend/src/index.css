@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nav-item{
+  margin-left: 6%;
+}
+.navbar-collapse{
+  margin-left: 15%;
+}
+
+i{
+ 
+ padding: 12px;
+ padding-bottom: 10px;
+}
+
+.footer .link-tag{
+  text-align: center;
+}
+.footer .link-tag a{
+  text-decoration: none;
+    color: black;
+    margin-left:12px;
+    margin-right:12px;
+    font-size: 15px;
+}
+.footer p a{
+  text-decoration: none;
+ 
+
+
+}
+
+.footer a{
+  line-Height: 2.75;
+}
+
+.footer {
+  padding: 50px 100px 50px 100px;
+}
+
+.a-tag a{
+  margin-bottom: 30px;
+}
+.footer .a-tag  p{
+  font-size: 1.125rem;
+  font-weight: 500;
+}
+
+
+#supportHero{
+  background-color: #387ed1;
+  color: white;
+
+  
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  align-content: space-between;
+  margin: 10px 180px;
+  
+}
+
+#supportWrapper  a{
+  
+  color: white;
+  
+}
+
+#supportherocol{
+  margin-left: 180px;
+  
+  padding: 30px 100px 30px 10px;
+  font-size: 20px;
+  font-weight:500;
+
+}
+
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+label {
+  font-size: 1.2rem;
+  color: #656262;
+}
+
